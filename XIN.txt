@@ -4663,7 +4663,7 @@ CF手游官方直播间,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2
 广东卫视,http://117.148.179.159/PLTV/88888888/224/3221231502/index.m3u8
 广东卫视,http://39.134.65.173/PLTV/88888888/224/3221225859/1.m3u8
 广东卫视,http://111.40.196.31/PLTV/88888888/224/3221225531/index.m3u8
-广东卫视,http://61.160.152.2/live.aishang.ctlcdn.com/00000110240137_1/playlist.m3u8?CONTENTID=00000110240137_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+广东卫视,http://61.160.152.2/live.aishang.ctlcdn.com/00000110240137_1/playlist.m3u8?
 广东卫视,http://39.135.138.60:18890/TVOD/88888910/224/3221225742/index.m3u8
 广东卫视,http://39.134.65.179/PLTV/88888888/224/3221225859/1.m3u8
 广东卫视,http://140.207.241.3:8080/live/program/live/gdwshd/4000000/d1.m3u8
@@ -4727,7 +4727,7 @@ CF手游官方直播间,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2
 深圳卫视,http://39.134.66.110/PLTV/88888888/224/3221225668/index.m3u8
 深圳卫视,http://140.207.241.3:8080/live/program/live/szwshd/4000000/mnf.m3u8
 深圳卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225559/index.m3u8?fmt=ts2hls
-深圳卫视,http://61.160.152.2/live.aishang.ctlcdn.com/00000110240132_1/playlist.m3u8?CONTENTID=00000110240132_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+深圳卫视,http://61.160.152.2/live.aishang.ctlcdn.com/00000110240132_1/playlist.m3u8?
 深圳卫视,http://140.207.241.2:8080/live/program/live/szwshd/4000000/mnf.m3u8
 深圳卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225700/index.m3u8?$移动蓝光1080P
 深圳卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225700/index.m3u8
@@ -4883,7 +4883,7 @@ CF手游官方直播间,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2
 贵州卫视,http://111.40.196.25/PLTV/88888888/224/3221225522/index.m3u8
 贵州卫视,http://39.135.32.24:6610/000000001000/1000000002000003169/1.m3u8?xtkg?zweimd
 贵州卫视,http://39.134.66.110/PLTV/88888888/224/3221225974/index.m3u8
-贵州卫视,http://61.160.152.2/live.aishang.ctlcdn.com/00000110240318_1/playlist.m3u8?CONTENTID=00000110240318_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+贵州卫视,http://61.160.152.2/live.aishang.ctlcdn.com/00000110240318_1/playlist.m3u8?
 贵州卫视,http://39.134.65.149/PLTV/88888888/224/3221225974/1.m3u8
 贵州卫视,http://39.134.66.66/PLTV/88888888/224/3221225576/index.m3u8
 贵州卫视,http://39.135.138.58:18890/TVOD/88888888/224/3221225728/index.m3u8
@@ -5131,7 +5131,7 @@ CF手游官方直播间,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2
 辽宁卫视,http://39.135.34.144:8080/000000001000/1000000001000017156/index.m3u8?test/PLTV/=02
 辽宁卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225735/index.m3u8
 辽宁卫视,http://140.207.241.3:8080/live/program/live/lnwshd/4000000/mnf.m3u8
-辽宁卫视,http://61.160.152.2/live.aishang.ctlcdn.com/00000110240255_1/playlist.m3u8?CONTENTID=00000110240255_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+辽宁卫视,http://61.160.152.2/live.aishang.ctlcdn.com/00000110240255_1/playlist.m3u8?
 辽宁卫视,http://39.135.138.59:18890/TVOD/88888910/224/3221225696/index.m3u8
 辽宁卫视,http://39.135.34.144:8080/000000001000/7899627377857656087/index.m3u8?test/PLTV/=02
 辽宁卫视,http://111.40.196.28/0000000000001000/1.m3u8?Contentid=1000000002000024033&livemode=1&stbId=2&channel-id=ystenlive
@@ -5230,7 +5230,7 @@ CF手游官方直播间,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2
 黑龙江卫视,http://39.134.66.110/PLTV/88888888/224/3221225985/index.m3u8
 黑龙江卫视,http://140.207.241.3:8080/live/program/live/hljwshd/4000000/mnf.m3u8
 黑龙江卫视,http://117.148.179.162/PLTV/88888888/224/3221231520/index.m3u8
-黑龙江卫视,http://61.160.152.2/live.aishang.ctlcdn.com/00000110240131_1/playlist.m3u8?CONTENTID=00000110240131_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+黑龙江卫视,http://61.160.152.2/live.aishang.ctlcdn.com/00000110240131_1/playlist.m3u8?
 黑龙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8
 黑龙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8
 黑龙江卫视,http://39.135.138.59:18890/TVOD/88888910/224/3221225690/index.m3u8
@@ -5300,10 +5300,6 @@ CF手游官方直播间,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2
 CHC动作电影,http://39.134.19.252:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://39.134.19.252:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://39.134.19.252:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-电影台50,http://bp-caster.bestv.com.cn/494/1/video.m3u8
-电影台51,http://bp-caster.bestv.com.cn/532/1/video.m3u8
-电影台52,http://bp-caster.bestv.com.cn/490/1/video.m3u8
-电影台53,http://bp-caster.bestv.com.cn/480/1/video.m3u8
 邵氏影院1,http://zzy789.xyz/douyu1.php?id=4246519
 华语电影1,http://zzy789.xyz/douyu1.php?id=3928
 恐怖电影1,http://zzy789.xyz/douyu1.php?id=310926
@@ -5717,11 +5713,6 @@ CGTN France,http://livefr.cgtn.com/1000f/prog_index.m3u8
 庆余年,https://ygbh--xingkongbujian.repl.co/huya/11352960
 爱情公寓,https://ygbh--xingkongbujian.repl.co/huya/11336726
 
-肥羊,#genre#
-虎牙4K王者荣耀,http://159.75.85.63:35455/huya/wzgxs1
-虎牙战地五4K,http://159.75.85.63:35455/huya/28260962
-斗鱼4K激战2,http://159.75.85.63:35455/douyu/3916618
-斗鱼4K电影,http://159.75.85.63:35455/douyu/9249162
 
 
 📛丨音乐DJ,#genre#
