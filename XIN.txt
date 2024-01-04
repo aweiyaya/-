@@ -5596,7 +5596,7 @@ CGTN France,http://livefr.cgtn.com/1000f/prog_index.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?blog.ntnas.top
 新泰影视频道,http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
 
-🐠斗鱼视频,#genre#
+🐠斗鱼,#genre#
 
 斗鱼11,http://huanqiuzhibo.cn/manifest/douyu.php?id=7655471&$1024x768
 斗鱼12,http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778&$1280x720
