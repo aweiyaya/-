@@ -5439,8 +5439,18 @@ TNT,https://d1k4ybyeycgihx.cloudfront.net/hls/TNT/chunks.m3u8
 NBA,https://d1k4ybyeycgihx.cloudfront.net/hls/nbatv/chunks.m3u8
 搏击频道,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 🧑小品频道,#genre#
-开心麻花,http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-赵本山小品,https://ugccsy.qq.com/B_JxNyiJmktHRgresXhfyMenR9uv5v3X4HSO1r6WbeRFkRGWBfetHyhem97R-tNpoO/svp_50200/njc_1000195_0bc33abi2aac5yac7cmpqvrrvwgerxmafdka.f2.mp4?sdtfrom=v1010&guid=9ba841eb1d2916bc&vkey=0D8E0F160C253C013DFA8BD49B67B59B218F9769150760228281E2BC01D58541822459B406D45CF9CCEE2F0A650BAF42194470D90D932E6CFB3D149EF0A8B210E537320A0517F92015467DAE68C3B286D878F0CFB152DE1DDA6D24BD5F424262EC6706E43D4E0571FDE5B3356BBBACC1A7DCCA17912F46DFB79D4CF025C15EB5B206C36D00051218B87460B518563A2DDA4A7BFB776685D3C4C7850A2DAFADAA839A4EE82187BC67FAF8E5D2A75AFDE9
+贾冰小品,https://upos-hz-mirrorakam.akamaized.net/upgcxcode/64/20/217442064/217442064-1-192.mp4?e=ig8euxZM2rNcNbRVhbdVhwdlhWdghwdVhoNvNC8BqJIzNbfqXBvEuENvNC8aNEVEtEvE9IMvXBvE2ENvNCImNEVEIj0Y2J_aug859r1qXg8gNEVE5XREto8z5JZC2X2gkX5L5F1eTX1jkXlsTXHeux_f2o859IMvNC8xNbLEkF6MuwLStj8fqJ0EkX1ftx7Sqr_aio8_&ua=tvproj&uipk=5&nbs=1&deadline=1706813592&gen=playurlv2&os=akam&oi=729892153&trid=4f0fb694293a437c8f021d41e9dfbffcT&mid=0&upsig=290b25751d00edcaf308cfd5d69d2733&uparams=e,ua,uipk,nbs,deadline,gen,os,oi,trid,mid&hdnts=exp=1706813264~hmac=f6b78397594de5e24222c871ea9a3c99e4005602d15f1156c308611d2e5af9b4&bvc=vod&nettype=0&bw=102402&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+欢乐喜剧人第二季01,https://v5.1080tg.com/202309/06/TFv1w37Em41/video/index.m3u8
+欢乐喜剧人第二季02,https://v5.1080tg.com/202309/06/rvFscEN0h21/video/original/hls/index.m3u8
+欢乐喜剧人第二季03,https://v5.1080tg.com/202309/06/w2e8EqJkrT1/video/original/hls/index.m3u8
+欢乐喜剧人第二季04,https://v5.1080tg.com/202309/06/C1NewGwiU71/video/original/hls/index.m3u8
+欢乐喜剧人第二季05,https://v5.1080tg.com/202309/06/PvKxULpUCN1/video/original/hls/index.m3u8
+欢乐喜剧人第二季06,https://v5.1080tg.com/202309/06/e5XqeHfZ9L1/video/original/hls/index.m3u8
+欢乐喜剧人第二季07,https://v5.1080tg.com/202309/06/6vaf5db2xr1/video/original/hls/index.m3u8
+欢乐喜剧人第二季08,https://v5.1080tg.com/202309/06/yR3wJ80mbd1/video/original/hls/index.m3u8
+欢乐喜剧人第二季09,https://v5.1080tg.com/202309/06/0dMCpByaRU1/video/original/hls/index.m3u8
+欢乐喜剧人第二季10,https://v5.1080tg.com/202309/06/0dMCpByaRU1/video/original/hls/index.m3u8
+开心麻花,https://183-201-218-165.bytefcdnrd.com/live/10153463r0oBSmAG.flv?302_type=cold_aggr&_session_id=3935767527.n.cn-gtjg2l.8yxl_31810&cb_retry=0&did=3ab7400235ede72022188e65000416r1&domain=open-tct.douyucdn2.cn&expire=0&fp_user_url=https%3A%2F%2Fopen-tct.douyucdn2.cn%2Fdyliveflv3%2F10153463r0oBSmAG.flv%3FwsAuth%3De1474171a5c51fa4a911a8d9c04e55e6%26token%3Dcpn-androidfapp-0-10153463-ee6c60cb51b3615498d2ca1922868f6e932d61418671dcc8%26logo%3D0%26expire%3D0%26did%3D3ab7400235ede72022188e65000416r1%26origin%3Dtct%26vhost%3Dplay3%26sid%3D377683415&logo=0&manage_ip=&node_id=&origin=tct&pro_type=http2&redirect_from=pod.cn-gtjg2l.8yxl.nss&sid=377683415&token=cpn-androidfapp-0-10153463-ee6c60cb51b3615498d2ca1922868f6e932d61418671dcc8&vhost=tc-tct.douyucdn2.cn&wsAuth=e1474171a5c51fa4a911a8d9c04e55e6
 
 🧑明星频道,#genre#
 黄渤,http://43.128.40.42:198/虎牙直播/huya.php?id=11352876
